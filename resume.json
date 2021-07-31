@@ -1,0 +1,63 @@
+{
+	"basics": {
+		"name": "Abhishek",
+		"label": "Student",
+		"picture": "profile.jpeg",
+		"email": "2019kuec2004@iiitkota.ac.in",
+		"phone": "9671778611",
+		"summary": "I'm a student at Indian Institute of Information Technology Kota, pursuing my B.tech in Electronics and Communication. I am an avid learner intrested in Programming and Full Stack development.",
+		"location": {
+			"address": "H.No. 611, Sector-12",
+			"postalCode": "131001",
+			"city": "Sonipat",
+			"countryCode": "India",
+			"region": "Haryana"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "abhishek240900",
+				"url": "https://github.com/abhishek240900"
+			},
+			{
+				"network": "linkedin",
+				"username": "abhishek-sharma-89b180191",
+				"url": "https://www.linkedin.com/in/abhishek-sharma-89b180191"
+			},
+			{
+				"network": "Instagram",
+				"username": "_abhisheks_._",
+				"url": "https://instagram.com/_abhisheks_._"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2019-05-08",
+		"endDate": "2023",
+		"gpa": "8.3",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C++","HTML", "CSS", "Javascript", "Nodejs", "C", "Python"]
+	}],
+    "publications": [{
+		"title": "Shopping Cart",
+		"details": "Built Shoppng Cart using ExpessJs, Sequelize, jQuey"
+	},
+    {
+		"title": "Social Media App",
+		"details": "Built a Social Media App using ExpessJs, Sequelize, jQuey"
+	}
+    ],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Cricket"]
+	}]
+}
